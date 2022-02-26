@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.bing.com/th/id/OGC.91168b4873f6659b3e9fdfe4b89cd864?pid=1.7&rurl=https%3a%2f%2fcapturly.com%2fblog%2fwp-content%2fuploads%2f2018%2f02%2fData-Website-Analytics.gif&ehk=R5KHvXhloUbZ3hcZAlGbWBB6zM72RZubk6Ck5OzkTBI%3d" height=400 width=600>
+  <img src="https://www.bing.com/th/id/OGC.91168b4873f6659b3e9fdfe4b89cd864?pid=1.7&rurl=https%3a%2f%2fcapturly.com%2fblog%2fwp-content%2fuploads%2f2018%2f02%2fData-Website-Analytics.gif&ehk=R5KHvXhloUbZ3hcZAlGbWBB6zM72RZubk6Ck5OzkTBI%3d" height=200 width=300>
 </div>
 
 <div id="badges" align = "center"> 
