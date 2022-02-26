@@ -1,14 +1,14 @@
-### Hi there and welcome to my GitHub page!👋
+<div id="header" align="center">
+  <img src="https://www.bing.com/th/id/OGC.91168b4873f6659b3e9fdfe4b89cd864?pid=1.7&rurl=https%3a%2f%2fcapturly.com%2fblog%2fwp-content%2fuploads%2f2018%2f02%2fData-Website-Analytics.gif&ehk=R5KHvXhloUbZ3hcZAlGbWBB6zM72RZubk6Ck5OzkTBI%3d" height=400 width=600>
+</div>
 
-#### I am a data analyst from Minnesota.
-<div id="badges"> 
+<div id="badges" align = "center"> 
   <a href = "https://www.linkedin.com/">
     <img alt = "Linked in" src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
   </a> 
 </div>
 
-#### What do I do?
-<p>
+<p align = "center">
 <img alt = "R" src = "https://img.shields.io/badge/R Data Science-lightgrey?logo=R&logoColor=white"> 
 <img alt = "SQL" src = "https://img.shields.io/badge/MySQL-red?logo=MySQL&logoColor=white">
 <img alt = "Tableau" src = "https://img.shields.io/badge/Tableau-informational?logo=Tableau&logoColor=white">
