@@ -1,12 +1,16 @@
 ### Hi there and welcome to my GitHub page!👋
 
-#### My name is Jon Prendergast and I am a data analyst from Minnesota.
+#### I am a data analyst from Minnesota.
+<div id="badges"> 
+  <a href = "https://www.linkedin.com/">
+    <img alt = "Linked in" src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+  </a> 
+</div>
 
 #### What do I do?
-
 <p>
-<img alt = "R" src = "https://cdn-icons-png.flaticon.com/512/2103/2103665.png" width=75 height=75> 
-<img alt = "SQL" src = "https://cdn-icons-png.flaticon.com/512/1265/1265531.png" width=75 height=75>
-<img alt = "Tableau" src = "https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau-300x300.png" width=75 height=75>
-<img alt = "PowerBI" src = "http://proartconsulting.net/wp-content/uploads/2019/05/PowerBINew.jpg" width=75 height=75>
+<img alt = "R" src = "https://img.shields.io/badge/R Data Science-lightgrey?logo=R&logoColor=white"> 
+<img alt = "SQL" src = "https://img.shields.io/badge/MySQL-red?logo=MySQL&logoColor=white">
+<img alt = "Tableau" src = "https://img.shields.io/badge/Tableau-informational?logo=Tableau&logoColor=white">
+<img alt = "PowerBI" src = "https://img.shields.io/badge/PowerBI-gold?logo=PowerBi&logoColor=white">
 </p>
